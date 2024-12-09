@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+.header{
+    background-color: black;
+    width: 1440px;
+    height: 82px;
+    display: flex;
+}
+.img{
+    margin-top: 18px;
+    margin-left: 57px;
+    margin-bottom: 18px;
+}
+.img2{
+    display: flex;
+    margin-left: 914px;
+    width: 30px;
+    height: 30px;
+    margin-top: 26px;
+}
+.English{
+    color: white;
+    margin-top: 30px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 14px;
+}
+.img3{
+    width: 10px;
+    height: 10px;
+    margin-top: 37px;
+    margin-left: 4px;
+}
+.h12{
+    background: #F1A900;
+    width: 192px;
+    height: 82px;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 29px;
+    padding-left: 44px;
+}
+.section{
+    display: flex;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #222222;
+    color: white;
+    gap: 101px;
+    width: 1440px;
+    height: 44px;
+}
+.section2{
+    background-image: url(ing/image\ 5.png);
+    width: 1440px;
+    height: 797px;
+}
+.pc{
+    background: #F1A900;
+    width: 235px;
+    height: 73px;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 13px;
+    padding-left: 77px;
+    margin-top: -349px;
+    margin-left: 453px;
+}
+.console{
+    background: black;
+    width: 235px;
+    height: 73px;
+    color: white;
+    padding-top: 20px;
+    padding-left: 38px;
+    margin-left: 753px;
+    margin-top: -70px;
+}
+.ERANGEL{
+    background: #F1A90054;
+    width: 966px;
+    height: 202px;
+    color: white;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    padding: 61px 22px;
+    margin-left: 285px;
+    margin-top: 31px;
+
+}
+.div{
+    margin-top: 40px;
+    background-color: black;
+    width: 1440px;
+    height: 101px;
+}
